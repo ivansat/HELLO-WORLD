@@ -1,2 +1,0 @@
-# HELLO-WORLD
-Primera modificación.
